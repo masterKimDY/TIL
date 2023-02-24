@@ -17,3 +17,4 @@ Today I Learned
 - [2023-02-20 (월)](https://github.com/masterKimDY/TIL/blob/main/2023-02-20.md)
 - [2023-02-22 (수)](https://github.com/masterKimDY/TIL/blob/main/2023-02-22.md)
 - [2023-02-23 (목)](https://github.com/masterKimDY/TIL/blob/main/2023-02-23.md)
+- [2023-02-24 (금)](https://github.com/masterKimDY/TIL/blob/main/2023-02-24.md)
